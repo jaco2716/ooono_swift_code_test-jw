@@ -1,3 +1,5 @@
+This is my solution to the test below.
+
 # OOONO Nearby road works positions code test
 
 The content of this repo consists of the start for the project as well as this readme.
